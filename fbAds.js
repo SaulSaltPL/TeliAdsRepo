@@ -1,3 +1,8 @@
+//git add .
+//git commit -m "Descripción de los cambios"
+//git push
+
+
 const config = require('./passkeys.json');
 
 
