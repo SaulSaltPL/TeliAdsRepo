@@ -1,9 +1,11 @@
 {
+  "name": "fbads",
+  "version": "1.0.0",
+  "type": "module",
   "scripts": {
-    "start": "node fbAds.js"
+    "start": "node app.js"
   },
   "dependencies": {
-    "googleapis": "^144.0.0",
-    "node-fetch": "^2.6.7"
+    "express": "^4.17.1"
   }
 }

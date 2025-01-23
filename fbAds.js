@@ -2,8 +2,8 @@
 //git commit -m "Descripción de los cambios"
 //git push
 
-
-const config = require('./passkeys.json');
+import fetch from 'node-fetch';
+import config from './passkeys.json' assert { type: 'json' };
 
 
 
